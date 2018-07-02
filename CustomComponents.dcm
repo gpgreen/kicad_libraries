@@ -1,0 +1,25 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LT1762-MS8
+D Low Noise LDO
+$ENDCMP
+#
+$CMP LTC2983
+D thermocouple management
+K thermocouple management with 24bit ADC
+F http://cds.linear.com/docs/en/datasheet/2983fc.pdf
+$ENDCMP
+#
+$CMP ThermocoupleTypeJ
+D thermocouple Type J
+K thermocouple temperature sensor Type J
+F https://en.wikipedia.org/wiki/Thermocouple
+$ENDCMP
+#
+$CMP ThermocoupleTypeK
+D thermocouple Type K
+K thermocouple temperature sensor Type K
+F https://en.wikipedia.org/wiki/Thermocouple
+$ENDCMP
+#
+#End Doc Library
