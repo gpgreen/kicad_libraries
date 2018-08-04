@@ -1,0 +1,16 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LCL
+D Local Ground
+$ENDCMP
+#
+$CMP Motor_DC
+D DC Motor
+K DC Motor
+$ENDCMP
+#
+$CMP RayAllenServo
+D Ray Allen Servo
+$ENDCMP
+#
+#End Doc Library
