@@ -13,4 +13,9 @@ $CMP RayAllenServo
 D Ray Allen Servo
 $ENDCMP
 #
+$CMP SW_DPDT_on-off-on
+D Switch, dual pole double throw, center-off, on-off-on
+K switch dual-pole double-throw DPDT spdt ON-OFF-ON
+$ENDCMP
+#
 #End Doc Library
