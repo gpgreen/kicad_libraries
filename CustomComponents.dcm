@@ -15,6 +15,11 @@ K thermocouple management with 24bit ADC
 F http://cds.linear.com/docs/en/datasheet/2983fc.pdf
 $ENDCMP
 #
+$CMP MPM3610
+D 21V Input, 1.2A Module Synchronous Step-Down Converter with Integrated Inductor
+F https://www.monolithicpower.com/en/mpm3610.html
+$ENDCMP
+#
 $CMP ThermocoupleTypeJ
 D thermocouple Type J
 K thermocouple temperature sensor Type J
