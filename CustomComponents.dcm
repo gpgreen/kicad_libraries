@@ -1,5 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP G3VM-201FR
+D Photo MOSFET optically coupled, ON 4A, 50mohm, OFF state 20V, Isolation 2500 VRMS, DIP-6
+K photocouplers photorelay solidstate relay normally opened (1-Form-A)
+F https://toshiba.semicon-storage.com/info/docget.jsp?did=12660&prodName=TLP3543
+$ENDCMP
+#
 $CMP G5LE
 D OMRON G5LE Relay
 K Relay
