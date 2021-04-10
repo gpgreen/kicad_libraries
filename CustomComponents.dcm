@@ -21,6 +21,10 @@ K thermocouple management with 24bit ADC
 F http://cds.linear.com/docs/en/datasheet/2983fc.pdf
 $ENDCMP
 #
+$CMP LightPipeMount
+D LED Light Pipe mount Digikey 492-1291-ND, Bivar SMFLP12.0
+$ENDCMP
+#
 $CMP MPM3610
 D 21V Input, 1.2A Module Synchronous Step-Down Converter with Integrated Inductor
 F https://www.monolithicpower.com/en/mpm3610.html
