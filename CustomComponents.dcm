@@ -26,6 +26,10 @@ D 21V Input, 1.2A Module Synchronous Step-Down Converter with Integrated Inducto
 F https://www.monolithicpower.com/en/mpm3610.html
 $ENDCMP
 #
+$CMP ST2378E
+D 8-bit dual supply 1.71V to 5.5V level translator with I/O VCC +/- 15KV ESD protection
+$ENDCMP
+#
 $CMP ThermocoupleTypeJ
 D thermocouple Type J
 K thermocouple temperature sensor Type J
