@@ -1,5 +1,10 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP Alternator
+D DC Motor
+K DC Motor
+$ENDCMP
+#
 $CMP LCL
 D Local Ground
 $ENDCMP
