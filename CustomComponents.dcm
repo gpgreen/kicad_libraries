@@ -46,4 +46,10 @@ K thermocouple temperature sensor Type K
 F https://en.wikipedia.org/wiki/Thermocouple
 $ENDCMP
 #
+$CMP VCAN26A2
+D Bidirectional Symmetrical Low Capacitance Dual-Line ESD Protection Diode
+K TVS CAN
+F https://www.vishay.com/docs/85894/vcan26a2-03g.pdf
+$ENDCMP
+#
 #End Doc Library
